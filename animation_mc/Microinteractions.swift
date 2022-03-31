@@ -34,7 +34,7 @@ struct Microinteractions: View {
                     .frame(width: 330, height: 53)
                     .foregroundColor(colorshape)
                 
-                Text("Toggle Switch")
+                Text("Toggle jhugSwitch")
                     .font(.title3)
                     .fontWeight(.regular)
                     .foregroundColor(.black)
